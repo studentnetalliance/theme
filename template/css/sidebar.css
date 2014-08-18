@@ -1,0 +1,20 @@
+#sidebar{
+    width: 230px;
+}
+
+#sidebar li.active,
+#sidebar li:hover {
+    background-color: lightblue;
+}
+
+#sidebar .list-group-item a{
+    color: darkgreen;
+}
+
+#sidebar .list-group-item a:hover{
+    background-color: transparent;
+}
+
+#sidebar li{
+    background-color: rgba(255, 255, 255, 0.1);
+}

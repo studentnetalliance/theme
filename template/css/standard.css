@@ -1,0 +1,33 @@
+@import url("overrides.css");
+@import url("socials.css");
+@import url("sidebar.css");
+@import url("section.css");
+@import url(http://fonts.googleapis.com/css?family=Droid+Sans);
+
+body{
+    height: 100%;
+    font-size: 16px;
+}
+
+.highlight{
+    color: green;
+}
+
+.section:nth-child(even) .highlight,
+.section:last-child .highlight{
+    color: red;
+}
+
+.spacer{
+    height: 10vh;
+}
+
+#team_pills a:hover{
+    cursor: pointer;
+}
+
+.team_div{
+    max-height: 75vh;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}

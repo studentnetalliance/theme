@@ -1,0 +1,33 @@
+a:hover{
+    text-decoration: none;
+}
+
+h1, h2, h3, h4, h5, #sidebar a{
+    font-family: "Droid Sans";
+}
+
+@media (min-width: 768px){
+    .carousel:not(#team_carousel) .item {
+	width: 66%;
+	margin-left: 16.5%;
+    }
+}
+
+.checkbox{
+    padding-top: 0 !important;
+    padding-left: 30px;
+}
+
+.checkbox label{
+    display: block;
+    padding: 7px 0;
+    margin: 0;
+}
+
+.checkbox:hover{
+    background-color: lightblue;
+}
+
+#sidebar .list-group-item{
+    padding: 0;
+}

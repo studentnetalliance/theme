@@ -1,0 +1,19 @@
+.section{
+    padding: 5em 0;
+}
+
+.section:nth-child(even),
+.section:last-child,
+.section:nth-child(even) td{
+    background-color: #111;
+    color: #eee;
+}
+
+.section:last-child{
+    padding-top: 30vh;
+}
+
+.section_header{
+    margin-left: 2em;
+    margin-bottom: 1em;
+}

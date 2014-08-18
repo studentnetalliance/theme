@@ -1,0 +1,3 @@
+<p>The Student Net Alliance combines new digital tools with impactful organizing tactics to <span class="highlight">empower</span> students to protect their interests online. Our education and communication rely on policies that support a <span class="highlight">free</span> and <span class="highlight">open</span> flow of information, and technologies that ensure our private communications are protected online and offline. By technologically leveling the playing field, we will succeed thanks to the platform we fight to protect.</p>
+
+<p> Want to shape the <span class="highlight">future</span> of the net? Start today.</p>
